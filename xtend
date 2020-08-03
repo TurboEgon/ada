@@ -1,6 +1,5 @@
 {
   "itn": {"owner": "ed25519_pk1w2v43fkhtcgslyz2gj8vdfrs38qlyw8fk2wu85944vuvj2tvsjfqhddvus", "witness": "ed25519_sig1gx0ngwlp2z8dgcs5kvnr6qvnhdj20096c2e82g48g8msga2wcvcxaahaccj6xf3jsktpdqkamvs2d3c7hh7ayxfzz0dl83dk7p8hsrsg2e0j2"},
-
   "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/TurboEgon/ada/master/novapool_icon.png",
         "url_png_logo": "https://raw.githubusercontent.com/TurboEgon/ada/master/novapool_logo.png",
