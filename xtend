@@ -8,9 +8,8 @@
             "telegram_handle": "TurboEgon"
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up\/down, solar energy.",
-            "company": "..."
+            "me": "We are two young technology-enthusiastic guys from Germany who have been closely involved in the Cardano project since the beginning of 2018",
+            "server": "Virtual Privat Server in Germany, 4GB RAM, 100 Mbit/s unlimited internet connection"
         }
     },
     "my-pool-ids": [
