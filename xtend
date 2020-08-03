@@ -1,23 +1,11 @@
 {
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon",
-        "url_png_logo": "http(s) url to pool logo",
-        "location": "London, England",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/TurboEgon/ada/master/novapool_icon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/TurboEgon/ada/master/novapool_logo.png",
+        "location": "Munich, Germany",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": ""
-        },
-        "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "twitter_handle": "NOVA_Pool",
+            "telegram_handle": "TurboEgon"
         },
         "about": {
             "me": "...",
@@ -26,14 +14,10 @@
         }
     },
     "my-pool-ids": [
-        "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    ],
-    "when-satured-then-recommend": [
-        "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "827c7aa359964ec100a9a3b943c73c1dd2056725b8897fd744c8adc0"
     ],
     "telegram-admin-handle": [
-        "mnmnmnmnnmn"
-    ]
+        "TurboEgon"
+    ],
+    "itn": {"owner": "ed25519_pk1w2v43fkhtcgslyz2gj8vdfrs38qlyw8fk2wu85944vuvj2tvsjfqhddvus", "witness": "ed25519_sig1gx0ngwlp2z8dgcs5kvnr6qvnhdj20096c2e82g48g8msga2wcvcxaahaccj6xf3jsktpdqkamvs2d3c7hh7ayxfzz0dl83dk7p8hsrsg2e0j2"}
 }
