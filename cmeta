@@ -1,1 +1,7 @@
-test
+{
+"name": "🌌 NOVA Pool Germany",
+"ticker": "NOVA",
+"extended": "https://raw.githubusercontent.com/TurboEgon/ada/master/xtend",
+"homepage": "https://novapool.carrd.co/",
+"description": "Building a decentralized world."
+}
