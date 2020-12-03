@@ -5,10 +5,10 @@
         "url_png_logo": "https://raw.githubusercontent.com/TurboEgon/ada/master/novapool_logo.png",
         "location": "Munich, Germany",
         "social": {
-            "twitter_handle": "NOVA_Pool",
-            "telegram_handle": "TurboEgon",
+            "twitter_handle": "nova_pool",
+            "telegram_handle": "novapool",
             "facebook_handle": "",
-            "youtube_handle": "",
+            "youtube_handle": "UCcJTdI-8EwxFFqP4BSkNpug",
             "twitch_handle": "",
             "discord_handle": ""
         },
