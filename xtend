@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "We are two young technology-enthusiastic guys from Germany who have been closely involved in the Cardano project since the beginning of 2018",
-            "server": "Virtual Privat Server in Germany, 4GB RAM, 100 Mbit/s unlimited internet connection",
+            "server": "Virtual Private Server in Germany, SSD, 6 vCores, 16GB RAM, 400 Mbit/s unlimited internet connection",
             "company": ""
         }
     },
