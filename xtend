@@ -7,8 +7,8 @@
         "social": {
             "twitter_handle": "nova_pool",
             "telegram_handle": "novapool",
-            "facebook_handle": "",
-            "youtube_handle": "channel/UCcJTdI-8EwxFFqP4BSkNpug",
+            "facebook_handle": "novapoolgermany",
+            "youtube_handle": "novapool",
             "twitch_handle": "",
             "discord_handle": ""
         },
