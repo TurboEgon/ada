@@ -5,7 +5,7 @@
         "url_png_logo": "https://raw.githubusercontent.com/TurboEgon/ada/master/novapool_logo.png",
         "location": "Munich, Germany",
         "social": {
-            "twitter_handle": "nova_pool",
+            "twitter_handle": "novaversepool",
             "telegram_handle": "novapool",
             "facebook_handle": "novapoolgermany",
             "youtube_handle": "novapool",
@@ -21,7 +21,7 @@
             "vat_id": ""
         },
         "about": {
-            "me": "We are two young technology-enthusiastic guys from Germany who have been closely involved in the Cardano project since the beginning of 2018",
+            "me": "We are a team of four tech-savvy enthusiasts looking for a fair and free alternative to the existing monetary system. We believe that the next big innovation are crypto currencies. Like most in the crypto scene, we started with Bitcoin, but ended up with the Cardano network due to the functionality and sustainability of the proof-of-stake consensus algorithm. The Cardano ecosystem, in our opinion, offers an attractive mix of security, scalability, and decentralization, allowing many people around the world to easily and securely access the crypto space.",
             "server": "Virtual Private Server in Germany, SSD, 6 vCores, 16GB RAM, 400 Mbit/s unlimited internet connection",
             "company": ""
         }
