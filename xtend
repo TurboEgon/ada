@@ -26,7 +26,7 @@
             "company": ""
         }
     },
-"cexplorer":"2e7ab6fbc4a21677d5",
+
   "telegram-admin-handle": [
 	"TurboEgon"
     ],
