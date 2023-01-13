@@ -10,7 +10,7 @@
             "facebook_handle": "novapoolgermany",
             "youtube_handle": "novapool",
             "twitch_handle": "",
-            "discord_handle": ""
+            "discord_handle": "MwJDK9H69F"
         },
         "company": {
             "name": "",
