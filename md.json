@@ -1,6 +1,7 @@
 {
-"name": "NOVApool.io",
-"description": "Our mission is to build a fair, free and decentralized world! We're here since day one and we'll stay here till the end! NOVA – a secure, reliable and transparent SPO!",
+"name": "🌌 NOVApool.io",
 "ticker": "NOVA",
-"homepage": "https://novapool.io"
+"extended": "https://raw.githubusercontent.com/TurboEgon/ada/master/xtend",
+"homepage": "https://novapool.io/",
+"description": "Our mission is to build a fair, free and decentralized world! We're here since day one and we'll stay here till the end! NOVA – a secure, reliable and transparent SPO!"
 }
